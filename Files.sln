@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Files\Files.csproj", "{F91CE004-7361-4280-BB7C-2A8BB7681485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Классы", "Классы\Классы.csproj", "{67346F17-C01C-4847-AC73-B9F7D1EF07D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Классы", "Классы\Классы.csproj", "{67346F17-C01C-4847-AC73-B9F7D1EF07D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Бинарные данныен", "Бинарные данныен\Бинарные данныен.csproj", "{BF52B17A-4A4A-4880-8D76-F750C64D5FFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{67346F17-C01C-4847-AC73-B9F7D1EF07D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67346F17-C01C-4847-AC73-B9F7D1EF07D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67346F17-C01C-4847-AC73-B9F7D1EF07D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF52B17A-4A4A-4880-8D76-F750C64D5FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF52B17A-4A4A-4880-8D76-F750C64D5FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF52B17A-4A4A-4880-8D76-F750C64D5FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF52B17A-4A4A-4880-8D76-F750C64D5FFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
